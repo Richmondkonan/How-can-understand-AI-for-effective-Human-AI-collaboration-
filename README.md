@@ -7,8 +7,6 @@
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
-[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 

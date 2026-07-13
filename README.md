@@ -21,7 +21,6 @@
 - [The Secret Framework: The 4D Method](#-the-secret-framework-the-4d-method)
 - [Breaking Down the 4 Pillars](#-breaking-down-the-4-pillars)
 - [How to Contribute](#-how-to-contribute)
-- [License](#-license)
 
 ---
 
@@ -105,11 +104,9 @@ Contributions are welcome! To suggest an improvement:
 3. Commit your changes (`git commit -m 'Add: ...'`)
 4. Open a **Pull Request**
 
----
+💬 Got a question, a suggestion, or just want to connect? Feel free to reach out directly:
 
-## 📄 License
-
-This project is distributed under the **MIT** license — see the [LICENSE](LICENSE) file for details.
+[![LinkedIn](https://img.shields.io/badge/-Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmondkonan/)
 
 <div align="center">
 

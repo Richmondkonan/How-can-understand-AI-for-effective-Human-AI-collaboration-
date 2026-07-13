@@ -1,4 +1,4 @@
-# 🚀 Beyond Basic Prompting: Mastering AI in 2026
+#  Beyond Basic Prompting: Mastering AI in 2026
 
 ![AI Banner](http://googleusercontent.com/image_generation_content/0)
 
@@ -18,3 +18,12 @@ We power our workflows by combining the computational strength and logic of the 
 ## 💡 The Secret Framework: The 4D Method
 
 To achieve elite results that no one else can replicate, we apply a strict methodology based on four fundamental pillars:
+
+┌─────────────────┐       ┌─────────────────┐
+│   Description   │ ───>  │   Delegation    │
+└─────────────────┘       └─────────────────┘
+│                         │
+▼                         ▼
+┌─────────────────┐       ┌─────────────────┐
+│   Discernment   │ ───>  │    Diligence    │
+└─────────────────┘       └─────────────────┘

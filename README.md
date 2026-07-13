@@ -1,30 +1,120 @@
-#  Beyond Basic Prompting: Mastering AI in 2026
+<div align="center">
 
-![AI Banner](http://googleusercontent.com/image_generation_content/0)
+# 🧠 Beyond Basic Prompting
+### Mastering AI in 2026
 
-In 2026, everyone uses AI, but 95% of people limit themselves to basic searches. They are missing out on the true power of current models. This repository serves as an introduction to the art of co-creation and AI-augmented strategy.
+*A guide to moving beyond basic search and into strategic, AI-augmented co-creation*
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ---
 
-## 🛠️ Daily Tools
+## 📌 Table of Contents
 
-We power our workflows by combining the computational strength and logic of the two market leaders:
+- [Introduction](#-introduction)
+- [Daily Toolkit](#️-daily-toolkit)
+- [The Secret Framework: The 4D Method](#-the-secret-framework-the-4d-method)
+- [Breaking Down the 4 Pillars](#-breaking-down-the-4-pillars)
+- [How to Contribute](#-how-to-contribute)
+- [License](#-license)
 
-* **ChatGPT (OpenAI)** : [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
-* **Claude AI (Anthropic)** : [![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+---
+
+## 🚀 Introduction
+
+In 2026, **everyone uses AI**, but **95% of users** still limit themselves to basic searches or shallow prompting. They're missing out on the real power of current models.
+
+This repository is an introduction to **the art of AI-augmented co-creation and strategy** — an approach built for professionals who want to turn AI into a true production lever, not just a smarter search engine.
+
+> 💬 *"AI doesn't replace thinking — it amplifies it, as long as you know how to steer it."*
+
+---
+
+## 🛠️ Daily Toolkit
+
+Our workflow relies on the complementary strengths of the two market leaders, combining raw computational power with reasoning depth:
+
+<div align="center">
+
+| Tool | Primary Role | Link |
+|:---:|:---|:---:|
+| ![OpenAI](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) | Fast generation, brainstorming, broad exploration | [chatgpt.com](https://chatgpt.com/) |
+| ![Anthropic](https://img.shields.io/badge/-Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white) | Deep reasoning, structured writing, analytical rigor | [claude.ai](https://claude.ai/) |
+
+</div>
 
 ---
 
 ## 💡 The Secret Framework: The 4D Method
 
-To achieve elite results that no one else can replicate, we apply a strict methodology based on four fundamental pillars:
+To achieve elite results that are hard for anyone else to replicate, we apply a strict methodology built on **four fundamental pillars**.
 
-┌─────────────────┐       ┌─────────────────┐
- │   Description   │ ───>  │   Delegation    │
- └─────────────────┘       └─────────────────┘
-          │                         │
-          ▼                         ▼
- ┌─────────────────┐       ┌─────────────────┐
- │   Discernment   │ ───>  │    Diligence    │
- └─────────────────┘       └─────────────────┘
+```mermaid
+flowchart LR
+    A["📝 Description"] --> B["🤝 Delegation"]
+    B --> C["🔎 Discernment"]
+    C --> D["✅ Diligence"]
+    D -.->|Improvement loop| A
+```
 
+---
+
+## 🔍 Breaking Down the 4 Pillars
+
+### 1️⃣ Description
+> Formulate a clear, precise, and well-contextualized intent.
+
+- Define the end goal before writing the prompt
+- Provide business/domain context (networking, cybersecurity, AI...)
+- Specify the expected output format
+
+### 2️⃣ Delegation
+> Hand off the task to the right model, with the right level of autonomy.
+
+- Split tasks between ChatGPT and Claude based on their respective strengths
+- Let the AI propose an initial structure
+- Avoid over-micromanaging the prompt
+
+### 3️⃣ Discernment
+> Analyze the response with a critical, expert eye.
+
+- Check technical consistency (especially in cybersecurity/networking)
+- Spot biases, approximations, or hallucinations
+- Cross-check the response against reliable sources
+
+### 4️⃣ Diligence
+> Refine, correct, and industrialize the final output.
+
+- Iterate until reaching a professional-quality deliverable
+- Document the process for reuse
+- Publish/share with real added value
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! To suggest an improvement:
+
+1. **Fork** the repository
+2. Create a branch (`git checkout -b feature/improvement`)
+3. Commit your changes (`git commit -m 'Add: ...'`)
+4. Open a **Pull Request**
+
+---
+
+## 📄 License
+
+This project is distributed under the **MIT** license — see the [LICENSE](LICENSE) file for details.
+
+<div align="center">
+
+---
+
+*Built with 🧠 and rigor — 2026*
+
+</div>

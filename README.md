@@ -95,12 +95,14 @@ flowchart LR
 
 ## 🤝 How to Contribute
 
-Contributions are welcome! To suggest an improvement:
+<div align="center">
+<img src="assets/welcome-assistant.svg" alt="Friendly AI assistant waving hello" width="200" />
 
-1. **Fork** the repository
-2. Create a branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add: ...'`)
-4. Open a **Pull Request**
+### 👋 Welcome!
+
+Glad you're here. Feel free to explore, open an issue, or submit a pull request — every contribution is appreciated.
+
+</div>
 
 💬 Got a question, a suggestion, or just want to connect? Feel free to reach out directly:
 

@@ -20,10 +20,11 @@ We power our workflows by combining the computational strength and logic of the 
 To achieve elite results that no one else can replicate, we apply a strict methodology based on four fundamental pillars:
 
 ┌─────────────────┐       ┌─────────────────┐
-│   Description   │ ───>  │   Delegation    │
-└─────────────────┘       └─────────────────┘
-│                         │
-▼                         ▼
-┌─────────────────┐       ┌─────────────────┐
-│   Discernment   │ ───>  │    Diligence    │
-└─────────────────┘       └─────────────────┘
+ │   Description   │ ───>  │   Delegation    │
+ └─────────────────┘       └─────────────────┘
+          │                         │
+          ▼                         ▼
+ ┌─────────────────┐       ┌─────────────────┐
+ │   Discernment   │ ───>  │    Diligence    │
+ └─────────────────┘       └─────────────────┘
+

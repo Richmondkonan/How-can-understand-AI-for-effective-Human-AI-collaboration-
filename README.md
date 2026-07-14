@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Beyond Basic Prompting
+#  Beyond Basic Prompting
 ### Mastering AI in 2026
 
 *A guide to moving beyond basic search and into strategic, AI-augmented co-creation*
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Introduction](#-introduction)
 - [Daily Toolkit](#️-daily-toolkit)
@@ -22,17 +22,17 @@
 
 ---
 
-## 🚀 Introduction
+## Introduction
 
 In 2026, **everyone uses AI**, but **95% of users** still limit themselves to basic searches or shallow prompting. They're missing out on the real power of current models.
 
 This repository is an introduction to **the art of AI-augmented co-creation and strategy** — an approach built for professionals who want to turn AI into a true production lever, not just a smarter search engine.
 
-> 💬 *"AI doesn't replace thinking — it amplifies it, as long as you know how to steer it."*
+>  *"AI doesn't replace thinking — it amplifies it, as long as you know how to steer it."*
 
 ---
 
-## 🛠️ Daily Toolkit
+##  Daily Toolkit
 
 Our workflow relies on the complementary strengths of the two market leaders, combining raw computational power with reasoning depth:
 
@@ -47,7 +47,7 @@ Our workflow relies on the complementary strengths of the two market leaders, co
 
 ---
 
-## 💡 The Secret Framework: The 4D Method
+## The Secret Framework: The 4D Method
 
 To achieve elite results that are hard for anyone else to replicate, we apply a strict methodology built on **four fundamental pillars**.
 
@@ -61,7 +61,7 @@ flowchart LR
 
 ---
 
-## 🔍 Breaking Down the 4 Pillars
+##  Breaking Down the 4 Pillars
 
 ### 1️⃣ Description
 > Formulate a clear, precise, and well-contextualized intent.
@@ -93,18 +93,18 @@ flowchart LR
 
 ---
 
-## 🤝 How to Contribute
+##  How to Contribute
 
 <div align="center">
 <img src="assets/welcome-assistant.svg" alt="Friendly AI assistant waving hello" width="200" />
 
-### 👋 Welcome!
+###  Welcome!
 
 Glad you're here. Feel free to explore, open an issue, or submit a pull request — every contribution is appreciated.
 
 </div>
 
-💬 Got a question, a suggestion, or just want to connect? Feel free to reach out directly:
+ Got a question, a suggestion, or just want to connect? Feel free to reach out directly:
 
 [![LinkedIn](https://img.shields.io/badge/-Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richmondkonan/)
 
